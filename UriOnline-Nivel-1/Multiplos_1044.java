@@ -12,8 +12,6 @@ Exemplo de Entrada                  	Exemplo de Saída
 6 24                                       Sao Multiplos
 
 6 25                                       Nao sao Multiplos
- * 
- * 
  */
 
 
